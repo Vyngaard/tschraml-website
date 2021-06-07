@@ -17,6 +17,11 @@ header {
     left: 10%;
 }
 
+h1, p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+}
+
 h1 {
     font-size: 65px;
 }
